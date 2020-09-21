@@ -1,0 +1,5 @@
+
+
+For criterion 1, we need: 
+- New varieties of crops contribute to a net increase in overall production (I added percentage of crops that increase yield)
+- Number of new mutant varieties that improve quality traits (we have the percentage of the reported crops that improved quality traits)
